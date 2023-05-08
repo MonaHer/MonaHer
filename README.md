@@ -1,15 +1,12 @@
-### Nice to meet you! 👋
+### Hi! 👋
+## Nice to meet you 
 
 My name is Mona 
 
-<!--
-**MonaHer/MonaHer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👩‍💻 I’m currently a web development student @ neue fische 🐠🐠
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔥 I'm into art and literature
 - 🤔 I’m looking for ... spring to finally arrive 🌸🌹
+- 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
