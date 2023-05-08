@@ -1,4 +1,4 @@
-! [Dogs greeting]( https://giphy.com/gifs/woofwaggers-friends-hi-cnhihejresqSAcHYww )
+![Dogs greeting](https://giphy.com/gifs/woofwaggers-friends-hi-cnhihejresqSAcHYww)
 
 ## _Nice to meet you_
 
