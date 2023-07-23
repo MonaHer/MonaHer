@@ -6,7 +6,7 @@
 
 - 🏙 Based in Hamburg
 - 👩‍💻 I’m currently a web development student @ neue fische 🐠🐠
-- 🔥 I'm into art and literature
-- 🤔 I’m looking for ... spring to finally arrive 🌸🌹🦋🌼
+- 🔥 I'm into art and coding
+
 
 
