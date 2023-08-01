@@ -2,11 +2,8 @@
 
 ## _Nice to meet you_
 
->My name is Mona
+#After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean
 
-- 🏙 Based in Hamburg
-- 👩‍💻 I’m currently a web development student @ neue fische 🐠🐠
-- 🔥 I'm into art and coding
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=monaher&layout=compact&theme=radical)
 
 
