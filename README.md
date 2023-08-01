@@ -2,7 +2,7 @@
 
 ## Nice to meet you
 
-**After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean**
+**After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean**🫧
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monaher&theme=default)
 
