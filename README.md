@@ -4,6 +4,6 @@
 
 #After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=monaher&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=monaher&layout=compact&theme=radical
 
 
