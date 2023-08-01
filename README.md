@@ -2,8 +2,8 @@
 
 ## _Nice to meet you_
 
-#After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean
+##After learning how to swim @ neue fische 🐠🐠, I'm happy and ready to dive into the dev ocean
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=monaher&layout=compact&theme=radical
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monaher&theme=default)
 
 
